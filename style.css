@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+    font-family: 'Cabin', sans-serif;
+}
+
+.heading{
+    margin: 0px;
+    width: 100%;
+    font-size: 25px;
+}
+
+#numberObjects, #status{
+    font-size: 16px;
+}
+
+.copyright_footer{
+position: fixed;
+bottom: 0; 
+width: 100%;
+text-align: center; 
+background-color: crimson;
+line-height: 3;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px white;
+    border-radius: 20px;
+    border: 2px solid black;
+    margin-top: 85px;
+}
